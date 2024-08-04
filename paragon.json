@@ -1,0 +1,30 @@
+{
+  "projects": [
+    {
+      "name": "UGA_Spanish_Patch",
+      "rom_path": "D:/Dev/3DS/FE_Awakening/romfs/000400000009F100",
+      "output_path": "D:/Dev/3DS/FE_Awakening/UGA_Spanish_Patch",
+      "language": "Spanish",
+      "game": "FE13"
+    }
+  ],
+  "remember_project": true,
+  "current_project": null,
+  "theme": "Fusion Dark",
+  "backup": "Smart",
+  "show_animations": false,
+  "log_level": 20,
+  "font": null,
+  "fe13_avatar": {
+    "name": "Robin",
+    "gender": "Female",
+    "portraits": "FID_マイユニ_少女_顔立ちA",
+    "accessory": null
+  },
+  "fe14_avatar": {
+    "name": "Corrin",
+    "gender": "Male",
+    "portraits": "FID_マイユニ_男1_顔A",
+    "accessory": null
+  }
+}
